@@ -1,0 +1,14 @@
+.main-container {
+  margin-left: 10%;
+}
+
+.main-title {
+  font-size: 1.75rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.main-description {
+  font-size: 1rem;
+  line-height: 1.5;
+}
